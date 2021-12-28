@@ -1,0 +1,34 @@
+[INFO] [Assignment1.SauceLabs]-Navigated to the URL
+[INFO] [Assignment1.SauceLabs]-Clicked on signin
+[INFO] [Assignment1.SauceLabs]-Entered username and password
+[INFO] [Assignment1.SauceLabs]-Clicked on sign in
+[INFO] [Assignment1.SauceLabs]-Verified that user is logged in successfully
+[INFO] [Assignment1.SauceLabs]-user clicked on new web test
+[INFO] [Assignment1.SauceLabs]-User selects a browser and version
+[INFO] [Assignment1.SauceLabs]-User starts the new web test
+[INFO] [Assignment1.SauceLabs]-User clicked screenshot
+[INFO] [Assignment1.SauceLabs]-User ends the test
+[INFO] [Assignment1.SauceLabs]-Verified the test was completed successfully
+[INFO] [Assignment1.SauceLabs]-Navigated to the URL
+[INFO] [Assignment1.SauceLabs]-Clicked on price tag
+[INFO] [Assignment1.SauceLabs]-Selected parallel tests from drop down
+[INFO] [Assignment1.SauceLabs]-verified parallel test is selected successfully
+[INFO] [Assignment1.SauceLabs]-Navigated to the URL
+[INFO] [Assignment1.SauceLabs]-Clicked on price tag
+[INFO] [Assignment1.SauceLabs]-User change the pricing plan to monthly
+[INFO] [Assignment1.SauceLabs]-verified that price plan status
+[INFO] [Assignment1.SauceLabs]-Navigated to the URL
+[INFO] [Assignment1.SauceLabs]-Clicked on signin
+[INFO] [Assignment1.SauceLabs]-Entered username and password
+[INFO] [Assignment1.SauceLabs]-Clicked on sign in
+[INFO] [Assignment1.SauceLabs]-Verified that user is logged in successfully
+[INFO] [Assignment1.SauceLabs]-Navigated to the URL
+[INFO] [Assignment1.SauceLabs]-Verified that test completion count is working
+[INFO] [Assignment1.SauceLabs]-Navigated to the URL
+[INFO] [Assignment1.SauceLabs]-Verified that logo's are displayed
+[INFO] [Assignment1.SauceLabs]-Navigated to the URL
+[INFO] [Assignment1.SauceLabs]-verified that user navigates to the url
+[INFO] [Assignment1.SauceLabs]-Navigated to the URL
+[INFO] [Assignment1.SauceLabs]-User clicked video play button
+[INFO] [Assignment1.SauceLabs]-User clicked on Youtube video play button
+[INFO] [Assignment1.SauceLabs]-Verified that video is playing successfully
